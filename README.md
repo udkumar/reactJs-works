@@ -8,6 +8,7 @@ Basics to advance excerise
 
 > $ npm -v == 5.0.0
 
+$ npm install
 ## We will need some babel plugins so let's install it too.
 
 > $ npm install babel-core
