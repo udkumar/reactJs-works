@@ -1,7 +1,9 @@
 # reactJs-works
 Basics to advance excerise
 
-## Instructions for setup on local machine:
+# Instructions for setup on local machine:
+
+## version on which i did all works
 > $ node -v == v8.0.0
 
 > $ npm -v == 5.0.0
