@@ -9,6 +9,7 @@
 ## Install latest Node.
 
 > $ npm install
+
 > $ npm start
 
 Tic-toc game ready to use
